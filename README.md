@@ -24,7 +24,7 @@ O principal foco foi trabalhar layout com Flexbox, organização de código e im
 
 ## 🎯 O que eu pratiquei
 
-- Estruturação semântica com <main>, <div>, <h1> e <p>
+- Estruturação semântica com `<main>`, `<div>`, `<h1>` e `<p>`
 - Organização de arquivos CSS (reset, variables, style, responsive)
 - Uso de variáveis CSS para padronização de cores
 - Centralização de layout com Flexbox
@@ -44,7 +44,7 @@ O principal foco foi trabalhar layout com Flexbox, organização de código e im
 
 🌎 Deploy
 
--
+https://luizpaulotrein.github.io/FrontendMentor-nft-preview-card/
 
 ---
 
