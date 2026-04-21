@@ -44,7 +44,7 @@ O principal foco foi trabalhar layout com Flexbox, organização de código e im
 
 🌎 Deploy
 
-https://luizpaulotrein.github.io/FrontendMentor-nft-preview-card/
+https://luizpaulotrein.github.io/FrontendMentor-nft-preview-card-component/
 
 ---
 
